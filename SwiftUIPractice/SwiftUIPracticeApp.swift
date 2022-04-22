@@ -12,7 +12,8 @@ struct SwiftUIPracticeApp: App {
     var body: some Scene {
         WindowGroup {
 //            SettingsScreen()
-            PlayerScreen()
+//            PlayerScreen()
+            MiniStoreScreen()
         }
     }
 }
