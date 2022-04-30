@@ -11,6 +11,7 @@
 		501C37F4280C4D3C00A1D465 /* SettingsScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 501C37F3280C4D3C00A1D465 /* SettingsScreen.swift */; };
 		501C37F6280C4D3C00A1D465 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 501C37F5280C4D3C00A1D465 /* Assets.xcassets */; };
 		501C37F9280C4D3C00A1D465 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 501C37F8280C4D3C00A1D465 /* Preview Assets.xcassets */; };
+		502758942813221800802DCD /* AcivityViewScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 502758932813221800802DCD /* AcivityViewScreen.swift */; };
 		5028ED42280C6A7E008D80A7 /* PlayerScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5028ED41280C6A7E008D80A7 /* PlayerScreen.swift */; };
 		5028ED44280C7DD0008D80A7 /* TheXX-Intro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5028ED43280C7DD0008D80A7 /* TheXX-Intro.mp3 */; };
 /* End PBXBuildFile section */
@@ -21,6 +22,7 @@
 		501C37F3280C4D3C00A1D465 /* SettingsScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsScreen.swift; sourceTree = "<group>"; };
 		501C37F5280C4D3C00A1D465 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		501C37F8280C4D3C00A1D465 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		502758932813221800802DCD /* AcivityViewScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AcivityViewScreen.swift; sourceTree = "<group>"; };
 		5028ED41280C6A7E008D80A7 /* PlayerScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerScreen.swift; sourceTree = "<group>"; };
 		5028ED43280C7DD0008D80A7 /* TheXX-Intro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "TheXX-Intro.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +60,8 @@
 				501C37F1280C4D3C00A1D465 /* SwiftUIPracticeApp.swift */,
 				5028ED41280C6A7E008D80A7 /* PlayerScreen.swift */,
 				501C37F3280C4D3C00A1D465 /* SettingsScreen.swift */,
+				50ABEE412812A88D00422103 /* MiniStore.swift */,
+				502758932813221800802DCD /* AcivityViewScreen.swift */,
 				5028ED43280C7DD0008D80A7 /* TheXX-Intro.mp3 */,
 				501C37F5280C4D3C00A1D465 /* Assets.xcassets */,
 				501C37F7280C4D3C00A1D465 /* Preview Content */,
@@ -147,6 +151,7 @@
 				5028ED42280C6A7E008D80A7 /* PlayerScreen.swift in Sources */,
 				501C37F4280C4D3C00A1D465 /* SettingsScreen.swift in Sources */,
 				501C37F2280C4D3C00A1D465 /* SwiftUIPracticeApp.swift in Sources */,
+				502758942813221800802DCD /* AcivityViewScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
